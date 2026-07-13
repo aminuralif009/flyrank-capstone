@@ -13,6 +13,24 @@ FlyRank is an academic capstone repository focused on designing and implementing
 - **Remote Hosting:** GitHub
 - **IDE:** Cursor IDE
 
+## Getting Started
+
+### Prerequisites
+
+- [Node.js LTS](https://nodejs.org/)
+- [Git](https://git-scm.com/)
+
+
+
+### Setup
+
+```bash
+git clone https://github.com/aminuralif009/flyrank-capstone.git
+cd flyrank-capstone
+```
+
+Additional install and run steps will be added here as the project structure is established (e.g., `npm install`, `npm start`).
+
 ## Goals
 
 - Build a functional Node.js application with a clear, maintainable structure
@@ -20,6 +38,18 @@ FlyRank is an academic capstone repository focused on designing and implementing
 - Document project setup, conventions, and workflows for collaborators and AI assistants
 - Deliver a capstone-ready codebase that demonstrates technical and professional skills
 
+
+
 ## Author
 
 **Md Aminur Islam**
+
+
+
+## Future Improvements 
+
+- Add project structure 
+
+- Configure npm scripts 
+
+- Add automated testing
